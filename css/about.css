@@ -32,7 +32,7 @@ body {
 #paper1 {
     background-image: url("../img/paper1.png");
     background-repeat: no-repeat;
-    background-size: 800px 300px;
+    background-size: 700px 300px;
     background-position: center -50px;
     margin-top: 120;
     margin-bottom: 120px;
@@ -52,18 +52,11 @@ body {
         background-image: url(../img/board.png);
         font-family: Handwriting;
         text-align: center;
-    }
-
-    p {
         font-size: 10px;
     }
 
-    h4 {
-        font-size: 12px;
-    }
-     
-    h5 {
-        font-size: 11px;
+    h1 {
+        font-size: 32px;
     }
 
     #header {
@@ -91,7 +84,7 @@ body {
     #paper1 {
         background-image: url("../img/paper1.png");
         background-repeat: no-repeat;
-        background-size: 700px 300px;
+        background-size: 800px 300px;
         background-position: center -50px;
         margin-top: 120;
         margin-bottom: 120px;
