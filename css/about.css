@@ -1,0 +1,47 @@
+@font-face {font-family: Handwriting; src: url(../font/Sunset\ Friday.otf);}
+
+body {
+    background-image: url(../img/board.png);
+    font-family: Handwriting;
+    text-align: center;
+}
+
+#header {
+    background-image: url("../img/paper1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: -50px;
+    margin: 50px 100px 0px 0px;
+}
+
+#header img {
+    margin: 0;
+    padding: 0;
+}
+
+#header h1 {
+    margin-top: 0px;
+}
+
+#container {
+    display: flex;
+}
+
+#paper1 {
+    background-image: url("../img/paper1.png");
+    background-repeat: no-repeat;
+    background-size: 700px 300px;
+    background-position: center -50px;
+    margin-top: 120;
+    margin-bottom: 120px;
+}
+
+#paper2 {
+    background-image: url("../img/paper2.png");
+    background-repeat: no-repeat;
+    background-size: 300px 325px;
+    background-position: center -40px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
