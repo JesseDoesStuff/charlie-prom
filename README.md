@@ -1,6 +1,7 @@
 # Charlie's Prom Date Website
 
 **Welcome all lovely ladies**
+
 This is a website for my friend Charlie.
 
 He needs a prom date. Desperately.
