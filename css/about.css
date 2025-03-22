@@ -32,7 +32,7 @@ body {
 #paper1 {
     background-image: url("../img/paper1.png");
     background-repeat: no-repeat;
-    background-size: 700px 300px;
+    background-size: 800px 300px;
     background-position: center -50px;
     margin-top: 120;
     margin-bottom: 120px;
@@ -59,11 +59,11 @@ body {
     }
 
     h4 {
-        font-size: 16px;
+        font-size: 12px;
     }
      
     h5 {
-        font-size: 14px;
+        font-size: 11px;
     }
 
     #header {
